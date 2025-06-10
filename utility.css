@@ -16,10 +16,20 @@
     color: white;
 }
 .bg-gray{
-    background-color: #1c1b1b;
+    background-color: #1b1b1b;
     color: white;
 }
 
 .invert{
     filter: invert(1);
+}
+
+.rounder{
+    border-radius: 7px;
+}
+.m1{
+    margin: 10px;
+}
+.p1{
+    padding: 10px;
 }
